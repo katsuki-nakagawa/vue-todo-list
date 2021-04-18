@@ -22,12 +22,12 @@ import _ from "lodash"
 export default {
   data() {
     const todoItems = [
-      { id: 1, done: false, text: 'Go out to sea' },
-      {
-        id: 2,
-        done: false,
-        text: 'Invite the first member'
-      }
+    //   { id: 1, done: false, text: 'Go out to sea' },
+    //   {
+    //     id: 2,
+    //     done: false,
+    //     text: 'Invite the first member'
+    //   }
     ]
     return {
       inputValue: '',
